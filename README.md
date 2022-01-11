@@ -1,11 +1,10 @@
 <div style="text-align:center">
-  <img src="./public/favicon.ico" style='width: 200px'/>
-</div>
-
-<div style="text-align:center; margin:30px;">
-   <img src="https://img.shields.io/badge/Framework-NextJS-lightgrey" style='margin-right:10px'/>
-   <img src="https://img.shields.io/badge/Language-TypeScript-blue" style='margin-right:10px'/>
-   <img src="https://img.shields.io/badge/Style-Styled%20Components-green"/>
+    <img src="./public/favicon.ico" style='width: 200px'/>
+  <div style="margin:30px;">
+     <img src="https://img.shields.io/badge/Framework-NextJS-lightgrey" style='margin-right:10px'/>
+     <img src="https://img.shields.io/badge/Language-TypeScript-blue" style='margin-right:10px'/>
+     <img src="https://img.shields.io/badge/Style-Styled%20Components-green"/>
+  </div>
 </div>
 
 # NextJS Template
