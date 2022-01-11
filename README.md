@@ -9,8 +9,6 @@
   </p>
 </p>
 
-<br/>
-
 # NextJS Template
 
 A NextJS Template with Typescript and Styled Components
